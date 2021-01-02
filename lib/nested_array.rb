@@ -23,7 +23,8 @@ def assembled_matrix
   # Make sure conventional produce is first, on the 'zeroth' / 'bottom' shelf
   storage_produce = [
     ["Grapefruit", "Pineapple", "Oranges", "Watermelon", "Eggplant"],
-    ["Strawberries", "Potatoes", "Grapes", "Avocadoes", ]
+    ["Strawberries", "Potatoes", "Grapes", "Avocadoes", "Asparagus"]
+    ]
   
 end
 
